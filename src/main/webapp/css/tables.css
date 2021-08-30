@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.table{
+	width:100%; 
+	height:400px;
+
+}
+
+.tt1{
+	border-collapse: separate;
+    border-spacing: 1px;
+    text-align: center;
+    line-height: 40px;
+    margin: 20px 10px;
+}
+
+.tt1> thead > tr > th{
+	width: 100px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background: Orange ;
+}
+
+.tt1> tbody > tr > td{
+	width: 155px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    background:LightGray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
